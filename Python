@@ -1,0 +1,29 @@
+#int
+number = 7
+#float
+sum = 100.6
+ #string
+name = "Sasha"
+#bool
+statys = True
+"""
+string
+float
+
+"""
+
+
+"""
+print("Привіт як тебе звати? " "My name: " + name)
+
+print("Твоя улюблена цифра :" + str(number))
+
+print("Cod: \"123456789\" ")
+"""
+name  = "Andrey"
+age = 16
+print (f"Hello, my name {name},i'm {age} year old!")
+print("And you?")
+age1 = input("How old are you?")
+print  (age1 + " years old")
+
