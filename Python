@@ -26,4 +26,5 @@ print (f"Hello, my name {name},i'm {age} year old!")
 print("And you?")
 age1 = input("How old are you?")
 print  (age1 + " years old")
-
+name1 = input("Whats your name?")
+print (name1)
